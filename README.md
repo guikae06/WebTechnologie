@@ -1,6 +1,6 @@
 # WebTechnologie
 Github voor het vak webtechnologie
-
+Dit werd gedaan via Git
 
 ## 📌 Overzicht
 Deze repository bevat twee Bash-scripts:
